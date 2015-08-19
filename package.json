@@ -1,0 +1,28 @@
+{
+  "name": "imovie",
+  "version": "1.0.0",
+  "description": "影视类 Web App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugojing/imovie.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb"
+  ],
+  "author": "Hugo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugojing/imovie/issues"
+  },
+  "homepage": "https://github.com/hugojing/imovie#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}

@@ -1,0 +1,605 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"sub",
+				"substr(${0:start})	String"
+			],
+			[
+				"sav",
+				"saveStoryToDb"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"string",
+				"toString()	String"
+			],
+			[
+				"sto",
+				"story"
+			],
+			[
+				"data",
+				"datafrom_1"
+			],
+			[
+				"cate",
+				"cate"
+			],
+			[
+				"ra",
+				"rawUrl"
+			],
+			[
+				"get",
+				"getEveryRawCate"
+			],
+			[
+				"trim",
+				"trim()	String"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"is",
+				"isSuccess"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"substr",
+				"substring(${0:indexA})	String"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"eq",
+				"eq(1"
+			],
+			[
+				"ca_d",
+				"ca_data_str"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"co",
+				"console.	console.error()"
+			],
+			[
+				"ca_",
+				"ca_pic"
+			],
+			[
+				"dbz3_",
+				"dbz3_pic_big"
+			],
+			[
+				"dbz3",
+				"dbz3_pic_big"
+			],
+			[
+				"dbz2_pic",
+				"dbz2_pic_big"
+			],
+			[
+				"dbz2_",
+				"dbz2_pic_big"
+			],
+			[
+				"dbz1",
+				"dbz1_pic"
+			],
+			[
+				"hre",
+				"href1"
+			],
+			[
+				"conso",
+				"console.	console.log()"
+			],
+			[
+				"re",
+				"re	require"
+			],
+			[
+				"baidum",
+				"baiduMapPoint"
+			],
+			[
+				"baidu",
+				"baiduMapPoint"
+			],
+			[
+				"sur",
+				"substr"
+			],
+			[
+				"pos",
+				"postInfo"
+			],
+			[
+				"post",
+				"postInfo"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"map",
+				"map_address"
+			],
+			[
+				"ge",
+				"geocoder"
+			],
+			[
+				"ma",
+				"map_address"
+			],
+			[
+				"url",
+				"postUrls"
+			],
+			[
+				"fe",
+				"fetchEveryPage"
+			],
+			[
+				"ta",
+				"targetUrl2"
+			],
+			[
+				"posts",
+				"postUrls"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"bo",
+				"bower_components"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Hugo/dev/git/imovie/.gitignore",
+		"/Users/Hugo/dev/git/drawler/app.js",
+		"/Users/Hugo/dev/git/drawler4art/app.js",
+		"/Users/Hugo/dev/login.js",
+		"/Users/Hugo/dev/git/changshiban/_posts/blog/2015-06-19-build-coreos-docker-development-environment-with-vagrant-on-osx.md",
+		"/Users/Hugo/dev/Guideplus/index.ios.js",
+		"/Users/Hugo/dev/AwesomeProject/package.json",
+		"/Users/Hugo/dev/something/datafrom/crawler_2.js",
+		"/Users/Hugo/dev/something/datafrom/save.js",
+		"/Users/Hugo/dev/something/datafrom/crawler_5.js",
+		"/Users/Hugo/dev/git/drawler4gp/app.js",
+		"/Users/Hugo/dev/something/cloud.js",
+		"/Users/Hugo/dev/something/app.js",
+		"/Users/Hugo/dev/something/datafrom/crawler_3.js",
+		"/Users/Hugo/dev/something/datafrom/crawler_1.js",
+		"/Users/Hugo/dev/something/datafrom/time.js",
+		"/Users/Hugo/dev/something/datafrom/datafrom_4_null.js",
+		"/Users/Hugo/dev/something/datafrom/cleardb.js",
+		"/Users/Hugo/dev/story.json",
+		"/Users/Hugo/dev/test.js",
+		"/Users/Hugo/dev/something/crawler/datafrom_1.js",
+		"/Users/Hugo/dev/test/app.js",
+		"/Users/Hugo/dev/git/guideplus/controllers/site.js",
+		"/Users/Hugo/dev/git/guideplus/proxy/user.js",
+		"/Users/Hugo/dev/git/guideplus/controllers/github.js",
+		"/Users/Hugo/dev/git/guideplus/controllers/user.js",
+		"/Users/Hugo/dev/git/guideplus/views/user/index.ejs",
+		"/Users/Hugo/dev/git/guideplus/controllers/search.js",
+		"/Users/Hugo/dev/git/guideplus/routes/web_router.js",
+		"/Users/Hugo/dev/git/guideplus/middlewares/auth.js",
+		"/Users/Hugo/dev/git/guideplus/config.js",
+		"/Users/Hugo/dev/git/guideplus/app.js",
+		"/Users/Hugo/dev/git/guideplus/controllers/sign.js",
+		"/Users/Hugo/dev/git/guideplus/views/layout.ejs",
+		"/Users/Hugo/dev/git/guideplus/controllers/post.js",
+		"/Users/Hugo/dev/git/guideplus/proxy/index.js",
+		"/Users/Hugo/dev/git/guideplus/views/search/index.ejs",
+		"/Users/Hugo/dev/git/guideplus/views/post_index.ejs",
+		"/Users/Hugo/dev/git/guideplus/views/index.ejs",
+		"/Users/Hugo/dev/git/guideplus/views/head.ejs",
+		"/Users/Hugo/dev/git/guideplus/views/post/post_index.ejs",
+		"/Users/Hugo/dev/git/drawler/data/aritacc_30_posts.json",
+		"/Users/Hugo/dev/git/drawler/data/aritacc_posts.json",
+		"/Users/Hugo/dev/git/drawler/data/aritacc_30_posts.html",
+		"/Users/Hugo/dev/git/guideplus/.bowerrc",
+		"/Users/Hugo/dev/git/guideplus/views/404.ejs",
+		"/Users/Hugo/dev/git/guideplus/public/index.html",
+		"/Users/Hugo/dev/git/news-publish/cloud/app.js",
+		"/Users/Hugo/dev/git/guideplus/README.md",
+		"/Users/Hugo/dev/git/guideplus/package.json",
+		"/Users/Hugo/dev/git/drawler4art/artist_3620_data_done/朱瑶春/info.json",
+		"/Users/Hugo/dev/guanwang/cn.html",
+		"/Users/Hugo/dev/guanwang/en.html",
+		"/Users/Hugo/dev/guanwang/css/bootstrap-responsive.css",
+		"/Users/Hugo/dev/en.html",
+		"/Users/Hugo/dev/guanwang/css/style.css",
+		"/Users/Hugo/dev/guanwang/css/fontello.css",
+		"/Users/Hugo/dev/guanwang/css/bootstrap.css",
+		"/Users/Hugo/dev/cn.html",
+		"/Users/Hugo/dev/git/drawler4art/README.md",
+		"/Users/Hugo/dev/git/drawler4art/ca_69_data/尤志光/info.json",
+		"/Users/Hugo/dev/git/drawler4art/ca_69_data/何梓铃/info.json",
+		"/Users/Hugo/dev/git/drawler4art/ca_69_data/黄志伟/info.json",
+		"/Users/Hugo/Downloads/Logo - Blue Padding.svg",
+		"/Users/Hugo/dev/git/guideplus/webpack.config.js",
+		"/Users/Hugo/dev/git/guideplus/cloud.js",
+		"/Users/Hugo/dev/git/sdkstore/app.js",
+		"/Users/Hugo/dev/git/sdkstore/public/index.html",
+		"/Users/Hugo/dev/git/guideplus/.gitignore",
+		"/Users/Hugo/dev/git/news-publish/README.md",
+		"/Users/Hugo/dev/git/sdkstore/.gitignore",
+		"/Users/Hugo/dev/git/sdkstore/routes",
+		"/Users/Hugo/dev/git/sdkstore/server.js",
+		"/Users/Hugo/dev/git/two/.gitignore",
+		"/Users/Hugo/dev/git/sdkstore/app.coffee",
+		"/Users/Hugo/dev/git/unname/app.js",
+		"/Users/Hugo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Hugo/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/Hugo/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Hugo/dev/git/unname/.gitignore",
+		"/Users/Hugo/dev/git/two/server.js",
+		"/Users/Hugo/dev/git/drawler/package.json",
+		"/Users/Hugo/dev/git/two/crawler.js",
+		"/Users/Hugo/dev/git/restfulbear/app/models/bear.js",
+		"/Users/Hugo/dev/git/restfulbear/server.js",
+		"/Users/Hugo/dev/git/restfulbear/.gitignore",
+		"/Users/Hugo/dev/git/drawler/README.md",
+		"/Users/Hugo/dev/git/drawler/.gitignore",
+		"/Users/Hugo/dev/git/drawler/geocoder.js",
+		"/Users/Hugo/dev/git/new_xatu/3.html",
+		"/Users/Hugo/dev/git/new-cstyust/b.html",
+		"/Users/Hugo/dev/git/new_xatu/1.html",
+		"/Users/Hugo/dev/git/new_xatu/2.html",
+		"/Users/Hugo/dev/git/new_xatu/a.html",
+		"/Users/Hugo/dev/git/new_xatu/b.html",
+		"/Users/Hugo/dev/git/new_xatu/c.html",
+		"/Users/Hugo/dev/git/new_xatu/d.html",
+		"/Users/Hugo/dev/git/new_xatu/e.html",
+		"/Users/Hugo/dev/git/new_xatu/f.html",
+		"/Users/Hugo/dev/git/new_xatu/index.html",
+		"/Users/Hugo/dev/git/new_xatu/intro.html",
+		"/Users/Hugo/dev/git/new_xatu/org.html",
+		"/Users/Hugo/dev/git/new-cstyust/c.html",
+		"/Users/Hugo/dev/git/new-cstyust/d.html",
+		"/Users/Hugo/dev/git/new-cstyust/e.html",
+		"/Users/Hugo/dev/git/new-cstyust/f.html",
+		"/Users/Hugo/dev/git/new-cstyust/index.html",
+		"/Users/Hugo/dev/git/new-cstyust/intro.html",
+		"/Users/Hugo/dev/git/new-cstyust/org.html",
+		"/Users/Hugo/dev/git/new-cstyust/img/1.jpg",
+		"/Users/Hugo/dev/git/new-cstyust/a.html",
+		"/Users/Hugo/dev/git/new-cstyust/3.html",
+		"/Users/Hugo/dev/git/new-cstyust/2.html",
+		"/Users/Hugo/dev/git/new-cstyust/1.html",
+		"/Users/Hugo/dev/git/new-cstyust/README.md",
+		"/Users/Hugo/git/changshiban/_posts/blog/2015-06-23-build-your-development-environment-with",
+		"/Users/Hugo/git/changshiban/_posts/blog/2015-06-19-build-your-development-environment-with-vagrant-1.md",
+		"/Users/Hugo/git/changshiban/_posts/blog/2015-06-17-docker-on-coreos.md",
+		"/Users/Hugo/git/changshiban/_posts/blog/2015-04-11-dont-starve-together-dedicated-server-create-on-linux.md",
+		"/Users/Hugo/git/mstp_89_rock4life/index.html",
+		"/Users/Hugo/git/mstp_89_rock4life/blog.html",
+		"/Users/Hugo/git/mstp_89_rock4life/index-2.html",
+		"/Users/Hugo/git/mstp_89_rock4life/layout.html",
+		"/Users/Hugo/git/mstp_89_rock4life/single-post.html",
+		"/Users/Hugo/git/mstp_89_rock4life/gallery.html",
+		"/Users/Hugo/git/mstp_89_rock4life/css/media.css",
+		"/Users/Hugo/git/mstp_89_rock4life/css/style.css",
+		"/Users/Hugo/git/mstp_89_rock4life/css/mediaelementplayer.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"data",
+			" \n",
+			"('../",
+			"font-face",
+			"+</",
+			"pull-right",
+			"ca",
+			"ca_pic",
+			"/n",
+			"tab",
+			"ta b",
+			"});\n",
+			"<div class=\"span2\"> <img class=\"baner-img\" src=\"img/baner-logo.png\" ></div>",
+			"最新",
+			"Player",
+			"｀｀｀",
+			"Send Message",
+			"Blog",
+			"All",
+			"所有",
+			"All",
+			"image",
+			"影像",
+			"博客页面",
+			"			<li><a href=\" -post.html\">Single 博客页面</a></li>\n<li><a href=\" -post.html\">Single 博客页面</a></li>",
+			"<a href=\" -post.html\">",
+			" -post.html",
+			"-post.html",
+			" -post.html",
+			"Latest Post",
+			"-post",
+			"－post",
+			"Your Comment",
+			"Website",
+			"Your Email",
+			"Your Name",
+			"Your name",
+			"单个帖子",
+			"单个",
+			"single",
+			"image",
+			"Photo",
+			"Keyword",
+			"Send Comment",
+			"Read more",
+			"Layout",
+			"Gallery",
+			"Home",
+			"Rock 4 Life",
+			"Gallery Page",
+			"Menu",
+			"Post Title",
+			"Go to Top",
+			"2013",
+			"Follow Us",
+			"Twitter",
+			"Latest Video",
+			"Recent Posts",
+			"Menu Example",
+			"Blog Page",
+			"Latest Posts",
+			"Rock 4 Life",
+			"发表评论\n发表评论\nRock 4 Life",
+			"发表评论\n发表评论\nMenu",
+			"Write a Comment",
+			"Reply",
+			"User Name",
+			"Rock4Life",
+			"pic",
+			"banner",
+			"slid",
+			"nav"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"artist",
+			"\\n",
+			"  ",
+			" ",
+			"```",
+			"发送信息",
+			"博客",
+			"所有",
+			"image",
+			"博客",
+			" ",
+			"<a href=\"single-post.html\">",
+			"single-post.html",
+			"最新帖子",
+			"写下你的评论内容",
+			"个人主页",
+			"邮箱",
+			"您的名字",
+			"帖子",
+			" ",
+			"影像",
+			"图片",
+			"关键词",
+			"发表评论",
+			"阅读更多",
+			"布局",
+			"概览",
+			"主页",
+			"摇滚至上",
+			"展览页面",
+			"菜单",
+			"帖子标题",
+			"返回顶部",
+			"2015",
+			"关注我们",
+			"微博",
+			"最新视频",
+			"最近帖子",
+			"菜单样例",
+			"博客页面",
+			"最新帖子",
+			"摇滚至上",
+			"菜单",
+			"发表评论",
+			"回复",
+			"用户名",
+			"摇滚至上"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
